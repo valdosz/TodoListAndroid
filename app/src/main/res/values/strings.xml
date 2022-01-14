@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UAS TODO LIST</string>
+    <string name="judul">Ilham x Rivaldi</string>
+    <string name="name1">41519110183 - M Ilham Sihabudin</string>
+    <string name="name2">41519110184 - Muhamad Rivaldi</string>
+    <string name="todo">TODO</string>
+    <string name="ongoing">Ongoing Task</string>
+    <string name="seemore">See all</string>
+    <string name="nodata">No Data List</string>
+    <string name="taskplan">Please fill in the task</string>
+    <string name="heredelete">Click here for delete..</string>
+
+
+</resources>
